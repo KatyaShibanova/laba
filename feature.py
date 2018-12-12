@@ -1,3 +1,4 @@
 print ("My name is")
-print ("My name is Katya")
+print ("Katya")
 print ("My name is Katya Shibanova")
+print()
